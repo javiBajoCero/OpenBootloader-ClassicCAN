@@ -1,0 +1,5 @@
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/Middlewares/ST/OpenBootloader/Core/openbl_core.c:40:6:OPENBL_Init	16	static
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/Middlewares/ST/OpenBootloader/Core/openbl_core.c:57:6:OPENBL_DeInit	16	static
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/Middlewares/ST/OpenBootloader/Core/openbl_core.c:74:13:OPENBL_RegisterInterface	24	static
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/Middlewares/ST/OpenBootloader/Core/openbl_core.c:97:10:OPENBL_InterfaceDetection	16	static
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/Middlewares/ST/OpenBootloader/Core/openbl_core.c:123:6:OPENBL_CommandProcess	16	static

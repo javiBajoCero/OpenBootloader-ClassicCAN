@@ -1,0 +1,13 @@
+../../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_usart.h:634:22:LL_USART_Enable	16	static
+../../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_usart.h:1508:22:LL_USART_EnableAutoBaudRate	16	static
+../../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_usart.h:1552:22:LL_USART_SetAutoBaudRateMode	16	static
+../../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_usart.h:2997:26:LL_USART_IsActiveFlag_RXNE_RXFNE	16	static
+../../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_usart.h:3008:26:LL_USART_IsActiveFlag_TC	16	static
+../../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_usart.h:4251:25:LL_USART_ReceiveData8	16	static
+../../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_usart.h:4274:22:LL_USART_TransmitData8	16	static
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/OpenBootloader/Target/usart_interface.c:39:13:OPENBL_USART_Init	40	static
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/OpenBootloader/Target/usart_interface.c:73:6:OPENBL_USART_Configuration	40	static
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/OpenBootloader/Target/usart_interface.c:111:9:OPENBL_USART_ProtocolDetection	16	static
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/OpenBootloader/Target/usart_interface.c:138:9:OPENBL_USART_GetCommandOpcode	16	static
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/OpenBootloader/Target/usart_interface.c:162:9:OPENBL_USART_ReadByte	8	static
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/OpenBootloader/Target/usart_interface.c:177:6:OPENBL_USART_SendByte	16	static

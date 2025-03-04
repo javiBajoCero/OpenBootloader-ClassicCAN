@@ -1,0 +1,8 @@
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/OpenBootloader/Target/fdcan_interface.c:47:13:OPENBL_FDCAN_Init	2
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/OpenBootloader/Target/fdcan_interface.c:116:6:OPENBL_FDCAN_Configuration	1
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/OpenBootloader/Target/fdcan_interface.c:125:9:OPENBL_FDCAN_ProtocolDetection	2
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/OpenBootloader/Target/fdcan_interface.c:146:9:OPENBL_FDCAN_GetCommandOpcode	3
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/OpenBootloader/Target/fdcan_interface.c:176:9:OPENBL_FDCAN_ReadByte	2
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/OpenBootloader/Target/fdcan_interface.c:196:6:OPENBL_FDCAN_ReadBytes	2
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/OpenBootloader/Target/fdcan_interface.c:213:6:OPENBL_FDCAN_SendByte	3
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/OpenBootloader/Target/fdcan_interface.c:236:6:OPENBL_FDCAN_SendBytes	3

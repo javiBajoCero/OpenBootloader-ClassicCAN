@@ -1,0 +1,13 @@
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/Middlewares/ST/OpenBootloader/Modules/FDCAN/openbl_fdcan_cmd.c:80:25:OPENBL_FDCAN_GetCommandsList	4	static
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/Middlewares/ST/OpenBootloader/Modules/FDCAN/openbl_fdcan_cmd.c:91:13:OPENBL_FDCAN_GetCommand	24	static
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/Middlewares/ST/OpenBootloader/Modules/FDCAN/openbl_fdcan_cmd.c:132:13:OPENBL_FDCAN_GetVersion	8	static
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/Middlewares/ST/OpenBootloader/Modules/FDCAN/openbl_fdcan_cmd.c:153:13:OPENBL_FDCAN_GetID	8	static
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/Middlewares/ST/OpenBootloader/Modules/FDCAN/openbl_fdcan_cmd.c:171:13:OPENBL_FDCAN_ReadMemory	48	static
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/Middlewares/ST/OpenBootloader/Modules/FDCAN/openbl_fdcan_cmd.c:254:13:OPENBL_FDCAN_WriteMemory	32	static
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/Middlewares/ST/OpenBootloader/Modules/FDCAN/openbl_fdcan_cmd.c:323:13:OPENBL_FDCAN_Go	16	static
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/Middlewares/ST/OpenBootloader/Modules/FDCAN/openbl_fdcan_cmd.c:365:13:OPENBL_FDCAN_ReadoutProtect	8	static
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/Middlewares/ST/OpenBootloader/Modules/FDCAN/openbl_fdcan_cmd.c:390:13:OPENBL_FDCAN_ReadoutUnprotect	8	static
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/Middlewares/ST/OpenBootloader/Modules/FDCAN/openbl_fdcan_cmd.c:410:13:OPENBL_FDCAN_EraseMemory	24	static
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/Middlewares/ST/OpenBootloader/Modules/FDCAN/openbl_fdcan_cmd.c:502:13:OPENBL_FDCAN_WriteProtect	16	static
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/Middlewares/ST/OpenBootloader/Modules/FDCAN/openbl_fdcan_cmd.c:534:13:OPENBL_FDCAN_WriteUnprotect	16	static
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/Middlewares/ST/OpenBootloader/Modules/FDCAN/openbl_fdcan_cmd.c:563:16:OPENBL_FDCAN_GetAddress	24	static

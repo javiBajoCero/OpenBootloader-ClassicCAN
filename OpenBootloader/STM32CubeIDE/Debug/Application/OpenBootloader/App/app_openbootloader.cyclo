@@ -1,0 +1,3 @@
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/OpenBootloader/App/app_openbootloader.c:100:6:OpenBootloader_Init	1
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/OpenBootloader/App/app_openbootloader.c:144:6:OpenBootloader_DeInit	1
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/OpenBootloader/App/app_openbootloader.c:154:6:OpenBootloader_ProtocolDetection	3

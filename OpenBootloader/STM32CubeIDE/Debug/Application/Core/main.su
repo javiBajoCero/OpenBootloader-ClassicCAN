@@ -1,0 +1,7 @@
+../../Drivers/CMSIS/Include/core_cm4.h:1933:34:__NVIC_SystemReset	4	static,ignoring_inline_asm
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/Core/Src/main.c:42:5:main	8	static
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/Core/Src/main.c:75:13:SystemClock_Config	88	static
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/Core/Src/main.c:114:6:System_DeInit	8	static
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/Core/Src/main.c:123:6:Error_Handler	4	static
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/Core/Src/main.c:153:6:MX_GPIO_Init	32	static
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/Core/Src/main.c:173:6:toggleLEDnonblocking	16	static

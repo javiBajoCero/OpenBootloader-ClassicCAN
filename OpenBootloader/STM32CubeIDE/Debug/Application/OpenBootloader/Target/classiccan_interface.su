@@ -1,0 +1,8 @@
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/OpenBootloader/Target/classiccan_interface.c:38:13:OPENBL_CLASSICCAN_Init	8	static
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/OpenBootloader/Target/classiccan_interface.c:109:6:OPENBL_CLASSICCAN_Configuration	8	static
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/OpenBootloader/Target/classiccan_interface.c:119:9:OPENBL_CLASSICCAN_ProtocolDetection	16	static
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/OpenBootloader/Target/classiccan_interface.c:140:9:OPENBL_CLASSICCAN_GetCommandOpcode	16	static
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/OpenBootloader/Target/classiccan_interface.c:170:9:OPENBL_CLASSICCAN_ReadByte	16	static
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/OpenBootloader/Target/classiccan_interface.c:190:6:OPENBL_CLASSICCAN_ReadBytes	16	static
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/OpenBootloader/Target/classiccan_interface.c:208:6:OPENBL_CLASSICCAN_SendByte	16	static
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/OpenBootloader/Target/classiccan_interface.c:231:6:OPENBL_CLASSICCAN_SendBytes	16	static

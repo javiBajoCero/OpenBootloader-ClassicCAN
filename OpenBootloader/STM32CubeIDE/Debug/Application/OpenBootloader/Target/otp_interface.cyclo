@@ -1,0 +1,3 @@
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/OpenBootloader/Target/otp_interface.c:58:9:OPENBL_OTP_Read	1
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/OpenBootloader/Target/otp_interface.c:70:6:OPENBL_OTP_Write	3
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/OpenBootloader/Target/otp_interface.c:103:13:OPENBL_OTP_ProgramDoubleWord	1

@@ -1,0 +1,12 @@
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/Middlewares/ST/OpenBootloader/Modules/Mem/openbl_mem.c:43:13:OPENBL_MEM_RegisterMemory	24	static
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/Middlewares/ST/OpenBootloader/Modules/Mem/openbl_mem.c:77:10:OPENBL_MEM_GetAddressArea	24	static
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/Middlewares/ST/OpenBootloader/Modules/Mem/openbl_mem.c:103:10:OPENBL_MEM_GetMemoryIndex	24	static
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/Middlewares/ST/OpenBootloader/Modules/Mem/openbl_mem.c:125:9:OPENBL_MEM_Read	24	static
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/Middlewares/ST/OpenBootloader/Modules/Mem/openbl_mem.c:155:6:OPENBL_MEM_Write	32	static
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/Middlewares/ST/OpenBootloader/Modules/Mem/openbl_mem.c:176:6:OPENBL_MEM_SetReadOutProtection	16	static
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/Middlewares/ST/OpenBootloader/Modules/Mem/openbl_mem.c:192:12:OPENBL_MEM_GetReadOutProtectionStatus	16	static
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/Middlewares/ST/OpenBootloader/Modules/Mem/openbl_mem.c:220:13:OPENBL_MEM_SetWriteProtection	32	static
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/Middlewares/ST/OpenBootloader/Modules/Mem/openbl_mem.c:252:6:OPENBL_MEM_JumpToAddress	16	static
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/Middlewares/ST/OpenBootloader/Modules/Mem/openbl_mem.c:266:13:OPENBL_MEM_MassErase	32	static
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/Middlewares/ST/OpenBootloader/Modules/Mem/openbl_mem.c:302:13:OPENBL_MEM_Erase	32	static
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/Middlewares/ST/OpenBootloader/Modules/Mem/openbl_mem.c:333:6:OPENBL_MEM_OptionBytesLaunch	8	static

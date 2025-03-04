@@ -1,0 +1,13 @@
+../Middlewares/OpenBootloader/Modules/CLASSICCAN/openbl_classiccan_cmd.c:69:25:OPENBL_CLASSICCAN_GetCommandsList	4	static
+../Middlewares/OpenBootloader/Modules/CLASSICCAN/openbl_classiccan_cmd.c:80:13:OPENBL_CLASSICCAN_GetCommand	24	static
+../Middlewares/OpenBootloader/Modules/CLASSICCAN/openbl_classiccan_cmd.c:121:13:OPENBL_CLASSICCAN_GetVersion	8	static
+../Middlewares/OpenBootloader/Modules/CLASSICCAN/openbl_classiccan_cmd.c:142:13:OPENBL_CLASSICCAN_GetID	8	static
+../Middlewares/OpenBootloader/Modules/CLASSICCAN/openbl_classiccan_cmd.c:160:13:OPENBL_CLASSICCAN_ReadMemory	48	static
+../Middlewares/OpenBootloader/Modules/CLASSICCAN/openbl_classiccan_cmd.c:235:13:OPENBL_CLASSICCAN_WriteMemory	40	static
+../Middlewares/OpenBootloader/Modules/CLASSICCAN/openbl_classiccan_cmd.c:307:13:OPENBL_CLASSICCAN_Go	16	static
+../Middlewares/OpenBootloader/Modules/CLASSICCAN/openbl_classiccan_cmd.c:349:13:OPENBL_CLASSICCAN_ReadoutProtect	8	static
+../Middlewares/OpenBootloader/Modules/CLASSICCAN/openbl_classiccan_cmd.c:374:13:OPENBL_CLASSICCAN_ReadoutUnprotect	8	static
+../Middlewares/OpenBootloader/Modules/CLASSICCAN/openbl_classiccan_cmd.c:395:13:OPENBL_CLASSICCAN_EraseMemory	40	static
+../Middlewares/OpenBootloader/Modules/CLASSICCAN/openbl_classiccan_cmd.c:457:13:OPENBL_CLASSICCAN_WriteProtect	16	static
+../Middlewares/OpenBootloader/Modules/CLASSICCAN/openbl_classiccan_cmd.c:489:13:OPENBL_CLASSICCAN_WriteUnprotect	16	static
+../Middlewares/OpenBootloader/Modules/CLASSICCAN/openbl_classiccan_cmd.c:518:16:OPENBL_CLASSICCAN_GetAddress	24	static

@@ -1,0 +1,3 @@
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/OpenBootloader/Target/common_interface.c:35:6:Common_SetMsp	1
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/OpenBootloader/Target/common_interface.c:44:6:Common_EnableIrq	1
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/OpenBootloader/Target/common_interface.c:53:6:Common_DisableIrq	1

@@ -1,0 +1,13 @@
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/Middlewares/ST/OpenBootloader/Modules/USART/openbl_usart_cmd.c:84:25:OPENBL_USART_GetCommandsList	1
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/Middlewares/ST/OpenBootloader/Modules/USART/openbl_usart_cmd.c:95:13:OPENBL_USART_GetCommand	2
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/Middlewares/ST/OpenBootloader/Modules/USART/openbl_usart_cmd.c:136:13:OPENBL_USART_GetVersion	1
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/Middlewares/ST/OpenBootloader/Modules/USART/openbl_usart_cmd.c:155:13:OPENBL_USART_GetID	1
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/Middlewares/ST/OpenBootloader/Modules/USART/openbl_usart_cmd.c:174:13:OPENBL_USART_ReadMemory	5
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/Middlewares/ST/OpenBootloader/Modules/USART/openbl_usart_cmd.c:231:13:OPENBL_USART_WriteMemory	6
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/Middlewares/ST/OpenBootloader/Modules/USART/openbl_usart_cmd.c:312:13:OPENBL_USART_Go	5
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/Middlewares/ST/OpenBootloader/Modules/USART/openbl_usart_cmd.c:355:13:OPENBL_USART_ReadoutProtect	2
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/Middlewares/ST/OpenBootloader/Modules/USART/openbl_usart_cmd.c:380:13:OPENBL_USART_ReadoutUnprotect	1
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/Middlewares/ST/OpenBootloader/Modules/USART/openbl_usart_cmd.c:400:13:OPENBL_USART_EraseMemory	12
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/Middlewares/ST/OpenBootloader/Modules/USART/openbl_usart_cmd.c:528:13:OPENBL_USART_WriteProtect	5
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/Middlewares/ST/OpenBootloader/Modules/USART/openbl_usart_cmd.c:592:13:OPENBL_USART_WriteUnprotect	3
+C:/Users/JavierMunozSaez/Documents/GitHub/firmware-poc-openbootloader-target/OpenBootloader/Middlewares/ST/OpenBootloader/Modules/USART/openbl_usart_cmd.c:621:16:OPENBL_USART_GetAddress	3
